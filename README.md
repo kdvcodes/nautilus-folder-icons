@@ -36,6 +36,7 @@ Nautilus/Nemo extension that makes changing folders icons easy!
 - `meson` >= `0.40.0`
 - `ninja`
 - `appstream-glib`
+- `appstream-util`
 
 ## How to install
 
